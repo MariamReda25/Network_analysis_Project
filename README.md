@@ -34,3 +34,5 @@ Hints:
 
 6. Output
 The Bash script should output a summary report containing identified patterns and key statistics.
+
+zip File contains  ( Bash script - capture.pcap file  which saved captured traffic from Network - file used to extract src/dst addresses )
