@@ -1,4 +1,5 @@
-Network Task Requirements Document
+🚀 Network Task Requirements Document
+
 1. Objective
 
 The primary objective of this network task is to analyze network traffic using Wireshark and automate specific tasks with a Bash script, generating a summary report.
@@ -34,5 +35,9 @@ Hints:
 
 6. Output
 The Bash script should output a summary report containing identified patterns and key statistics.
+
+💻 Run The Script:
+chmod +x analyze_traffic.sh
+./analyze_traffic.sh captur.pcap
 
 zip File contains  ( Bash script - capture.pcap file  which saved captured traffic from Network - file used to extract src/dst addresses )
