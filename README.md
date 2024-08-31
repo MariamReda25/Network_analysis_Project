@@ -37,6 +37,7 @@ Hints:
 The Bash script should output a summary report containing identified patterns and key statistics.
 
 💻 Run The Script:
+
 chmod +x analyze_traffic.sh
 
 ./analyze_traffic.sh captur.pcap
