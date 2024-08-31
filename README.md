@@ -38,6 +38,7 @@ The Bash script should output a summary report containing identified patterns an
 
 💻 Run The Script:
 chmod +x analyze_traffic.sh
+
 ./analyze_traffic.sh captur.pcap
 
 zip File contains  ( Bash script - capture.pcap file  which saved captured traffic from Network - file used to extract src/dst addresses )
